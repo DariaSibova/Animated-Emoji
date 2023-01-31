@@ -7,3 +7,8 @@ body {
   place-items: center;
   min-height: 100vh;
 }
+
+img {
+  width: 25vmin;
+  aspect-ratio: 1;
+}
